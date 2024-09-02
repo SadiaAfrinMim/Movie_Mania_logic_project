@@ -1,1 +1,11 @@
+# Node modules
 node_modules/
+
+# Tailwind build output
+dist/
+
+# Logs
+*.log
+
+# Environment variables
+.env
